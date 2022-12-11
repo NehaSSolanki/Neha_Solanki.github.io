@@ -1,0 +1,10 @@
+---
+title: "About Me"
+author: "Neha Solanki"
+date: "2022-12-11"
+categories: [Asthma]
+---
+
+I'm a pulmonologist with an emphasis in asthma at Cleveland Clinic. I am board certified in both pulmonary medicine and critical care medicine.
+
+![](images/Solanki_Neha-01.jpg)

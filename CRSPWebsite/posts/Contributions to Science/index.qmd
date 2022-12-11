@@ -1,0 +1,41 @@
+---
+title: "Contributions to Science"
+author: "Neha Solanki"
+date: "2022-12-11"
+categories: [Asthma]
+---
+
+Contributions -
+
+1.  **Demonstrate the high significance of pollution on asthma.** After receiving a
+    competitive internal grant from the Center for Population Health Research to
+    study the impact of nitrogen dioxide on asthma exacerbations, we demonstrated a
+    unique cyclical pattern to asthma exacerbations known as \"periodicity.\" Our
+    project was selected as a finalist for the 2020 National Jewish Young
+    Investigator\'s Forum and we have a manuscript nearing publication ([Pediatric
+    Pulmonology]{.underline}). 
+
+    *a.* **Solanki, N.**, Bruckman, D., Attaway, A., Tang, A, Wang, X, Khatri,S. \"Nitrogen
+    Dioxide, an EPA parameter, May Forecast the Incidence of Asthma Exacerbations
+    Across Urban Areas: An Observational Study.\" **https://doi.org/10.1002/ppul.26194**.
+
+    b\. \"Air Quality Data for Nitrogen Dioxide and Pediatric Hospital
+    Admission Rates for Asthma in Selected Cities.\" **Solanki, N.**, Bruckman,
+    D., Attaway, A., Tang, A, Wang, X, Khatri,S. 2020 National Jewish Health,
+    Sixteenth Annual Respiratory Young Investigator\'s Forum
+
+2.  **Investigate the mechanisms of platelet activation in asthma.** Thrombocytosis (i.e. increased platelets) is a sign of platelet activation and has pro-inflammatory effects due to the release of cytokines. We have previously shown that thrombocytosis is associated with asthma severity in large datasets including the NHANES and have a manuscript nearing completion validating our findings in the UK biobank and SARPIII. We have since leveraged our transcriptomics data from SARPIII to determine potential mechanisms linking platelet activation and asthma severity.
+
+    a\. *Manuscript
+    in process:* \"Asthma and Platelets\" **Solanki, N.**, Attaway, A., Zein, Joe
+
+    b\. **Solanki, N**., Attaway, A., Kim, H.J., Bebeck,
+    G., Zein, J.G. and Khatri, S.B. The Association Between Platelet Count and
+    Asthma Exacerbations in NHANES (1999-2013). American Thoracic Society, 2020. https://www.atsjournals.org/doi/abs/10.1164/ajrccm-conference.2020.201.1_MeetingAbstracts.A4526.
+
+3.  **Investigate asthma and mechanisms to improve healthcare-related outcomes.** Individuals with severe asthma have outdoor as well as indoor elements that can exacerbate
+    their underlying condition. I am collaborating with the Legal Aid Society of Cleveland to improving the living conditions of individuals with asthma who are socioeconomically disadvantaged.  The project is currently going through IRB review.
+
+ 
+
+ 
